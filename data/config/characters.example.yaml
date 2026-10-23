@@ -1,0 +1,12 @@
+# Optional custom-role example. init_config.py uses the complete built-in XiaoYa instead.
+- name: 示例角色
+  color: '#f2a0bd'
+  character_setting: 你是一位温柔、好奇的对话伙伴。根据用户的表达自然交流，保持角色一致。
+  avatar: ''
+  sprites: []
+  emotion_items: []
+  emotion_tags: ''
+  default_skills: []
+  refer_audio_path: ''
+  prompt_text: ''
+  prompt_lang: zh

@@ -1,0 +1,7 @@
+{
+    "main.welcome": "芽语（Yayu）へようこそ！キャラクターを選んで会話を始めましょう。",
+    "main.notify_chat": "チャット準備完了",
+    "chat.input_placeholder": "メッセージを入力...",
+    "chat.send": "送信",
+    "chat.thinking": "考え中..."
+}

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+<title id="title">芽语 Yayu — 有角色、有故事的 AI 桌面伙伴</title>
+<desc id="desc">项目标题与真实 Qt 聊天截图。原创角色小芽使用新版全身立绘，配合未连接模型的演示台词、剧情选项与自由输入。</desc>
+<defs><clipPath id="proof-clip"><rect x="492" y="47" width="662" height="512" rx="23"/></clipPath></defs>
+<rect width="1200" height="650" rx="24" fill="#EEF3E9"/>
+<g id="identity" font-family="Segoe UI, Microsoft YaHei UI, sans-serif">
+<text x="52" y="74" font-size="20" fill="#526F58">YAYU · DESKTOP COMPANION</text>
+<text x="48" y="177" font-size="96" font-weight="700" fill="#233D30">芽语</text>
+<text x="52" y="269" font-size="76" font-weight="700" fill="#233D30">Yayu</text>
+<text x="52" y="352" font-size="32" font-weight="600" fill="#334C3B">有角色、有故事的</text>
+<text x="52" y="405" font-size="37" font-weight="600" fill="#334C3B">AI 桌面伙伴</text>
+<text x="52" y="462" font-size="25" fill="#58685B">立绘 · 台词 · 可选语音 · 记忆</text>
+<path d="M52 505H400" stroke="#CAD8C3" stroke-width="2"/>
+<text x="52" y="551" font-size="22" fill="#657169">Python 3.11+ / PySide6</text>
+<text x="52" y="588" font-size="22" fill="#657169">Windows 桌面启动器</text>
+</g>
+<g id="real-qt-proof">
+<rect x="492" y="54" width="662" height="512" rx="23" fill="#D8E1D2"/>
+<image x="492" y="47" width="662" height="512" xlink:href="../chat-demo.png" clip-path="url(#proof-clip)"/>
+<text x="500" y="606" font-size="23" font-family="Microsoft YaHei UI, Segoe UI, sans-serif" fill="#526F58">实际 Qt 界面 · 原创小芽 · 演示数据</text>
+</g></svg>

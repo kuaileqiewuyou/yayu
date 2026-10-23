@@ -1,0 +1,13 @@
+# Public first-run defaults. Personal settings belong in system_config.yaml.
+ui_language: zh_CN
+voice_language: ja
+theme: dark
+font_size: 14
+background_path: ''
+always_on_top: false
+skills_root: data/skills
+default_skills: []
+skill_presets: []
+reduce_motion: false
+typewriter_enabled: true
+typewriter_cps: 40

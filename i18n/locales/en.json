@@ -1,0 +1,7 @@
+{
+    "main.welcome": "Welcome to Yayu! Choose a character to start chatting.",
+    "main.notify_chat": "Chat ready",
+    "chat.input_placeholder": "Type a message...",
+    "chat.send": "Send",
+    "chat.thinking": "Thinking..."
+}

@@ -1,0 +1,32 @@
+# 可跟踪的内置角色配置；persona.md 由默认角色加载器注入。
+memory_id: builtin-xiaoya
+name: 小芽
+color: '#607B65'
+avatar: ui/assets/yayu.png
+default_skills: []
+sprite_prefix: ''
+sprites:
+  - id: 1
+    path: data/characters/xiaoya/standing-neutral.png
+  - id: 2
+    path: data/characters/xiaoya/standing-wink.png
+  - id: 3
+    path: data/characters/xiaoya/standing-listening.png
+emotion_items:
+  - id: 1
+    label: 自然微笑
+    sprite_path: data/characters/xiaoya/standing-neutral.png
+  - id: 2
+    label: 开心眨眼
+    sprite_path: data/characters/xiaoya/standing-wink.png
+  - id: 3
+    label: 安静倾听
+    sprite_path: data/characters/xiaoya/standing-listening.png
+emotion_tags: '1: 自然微笑 2: 开心眨眼 3: 安静倾听'
+sprite_scale: 1.0
+refer_audio_path: ''
+prompt_text: ''
+prompt_lang: zh
+speech_speed: 1.0
+speech_volume: 1.0
+

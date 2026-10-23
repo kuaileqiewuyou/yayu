@@ -1,0 +1,8 @@
+ChillRoundF v3.0, unmodified upstream font.
+Author: ChillType
+Source: https://github.com/Warren2060/ChillRound
+Revision: 46dda1602729b58de96e3fdee9f918d7aaa64727
+File: ChillRoundF v3.0.ttf
+License: SIL Open Font License 1.1 (see OFL.txt).
+SHA256: 7dae804b344f7bc1a1c8426b9515e9b54d7baac3e123263d0bae94d0a305a732
+Loaded into the application only; never installed into the operating system.

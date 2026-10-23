@@ -1,0 +1,13 @@
+# Linux x86_64 / CPython 3.10 UI-only environment; QtMultimedia is excluded.
+PySide6-Essentials==6.8.3
+shiboken6==6.8.3
+pydantic==2.14.1
+PyYAML==6.0.3
+httpx==0.28.1
+openai==3.31.0
+pytest==9.1.1
+pytest-qt==4.5.0
+# Cross-download can evaluate dependency markers against the Windows host.
+# These are required by anyio / pytest when installed under Python 3.10.
+exceptiongroup==1.3.1
+tomli==2.5.0
